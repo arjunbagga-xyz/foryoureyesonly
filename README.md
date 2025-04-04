@@ -1,4 +1,4 @@
-# For Your Eyes Only, Luv - Steampunk Steganography Tool
+# For Your Eyes Only, Luv
 Welcome, daring tinkerer, to "For Your Eyes Only, Luv," your steampunk-flavored steganography contraption! Hide secrets in images like a Victorian spy and decode them with the precision of a clockwork genius. If the gears jam, don’t blame us—just stoke the boiler and try again!
 
 # Overview
